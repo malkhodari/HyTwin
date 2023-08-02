@@ -7,7 +7,7 @@
 ###### Paper: doi.org/10.10.10.10 (pending publication)
 
 
-<img src="https://github.com/malkhodari/HyTwin/assets/62998803/06fe3d27-3062-4f6a-be73-483e3935405a" width="80%" height="80%">
+<img src="https://github.com/malkhodari/HyTwin/assets/62998803/725d47ea-c414-4c2f-8a7b-9fccf88f8ce8" width="80%" height="80%">
 
 ## For online use
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=malkhodari/HyTwin&file=HyTwin.mlappinstall)
