@@ -2,7 +2,7 @@
 ### An AI-based digital twin tool for estimating hypertension severity using multi-modality multi-organ clinical measurements
 
 ##### Mohanad Alkhodari, Winok Lapidaire, Turkay Kart, Adam Lewandowski, Abhirup Banerjee, Paul Leeson
-##### Cardiovascular clinical research facility (CCRF), University of Oxford, United Kingdom
+##### Cardiovascular Clinical Research Facility (CCRF), Division of Cardiovascular Medicine, University of Oxford, United Kingdom
 
 ###### Paper: doi.org/10.10.10.10 (pending publication)
 
