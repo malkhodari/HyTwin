@@ -4,7 +4,7 @@
 ##### Mohanad Alkhodari, Winok Lapidaire, Turkay Kart, Zhaohan Xiong, Yasser Iturria-Medina, Leontios Hadjileontiadis, Ahsan Khandoker, Adam Lewandowski, Abhirup Banerjee, Paul Leeson
 ##### Cardiovascular Clinical Research Facility (CCRF), Division of Cardiovascular Medicine, University of Oxford, United Kingdom
 
-###### Paper: doi.org/10.10.10.10 (pending publication)
+###### Publication: doi.org/10.10.10.10 (pending)
 
 Version: 1.0 Release date: 20XX-XX-XX
 
