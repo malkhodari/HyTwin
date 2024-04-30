@@ -8,12 +8,11 @@
 
 Version: 1.0 Release date: 2024-XX-XX
 
+For HyTwin Academic version, please go here: https://github.com/malkhodari/HyTwin_academic/
+
 ###### Contact: mohanad.alkhodari@rdm.ox.ac.uk, winok.lapidaire@cardiov.ox.ac.uk, turkay.kart@cardiov.ox.ac.uk, abhirup.banerjee@eng.ox.ac.uk, paul.leeson@cardiov.ox.ac.uk
 
 <img src="https://github.com/malkhodari/HyTwin/assets/62998803/725d47ea-c414-4c2f-8a7b-9fccf88f8ce8" width="80%" height="80%">
-
-
-For HyTwin Academic version, please go here: https://github.com/malkhodari/HyTwin_academic/
 
 ## For Webapp use
 
