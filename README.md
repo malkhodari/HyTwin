@@ -1,16 +1,18 @@
-# HyTwin
-### An AI-based digital twin tool for estimating hypertension severity using multi-modality multi-organ clinical measurements
+### HyTwin An AI-based digital twin tool for estimating hypertension severity using multi-modality multi-organ clinical measurements
 
-##### Mohanad Alkhodari, Winok Lapidaire, Turkay Kart, Zhaohan Xiong, Yasser Iturria-Medina, Leontios Hadjileontiadis, Ahsan Khandoker, Adam Lewandowski, Abhirup Banerjee, Paul Leeson
+#### Mohanad Alkhodari, Winok Lapidaire, Turkay Kart, Abhirup Banerjee, Paul Leeson
 ##### Cardiovascular Clinical Research Facility (CCRF), Division of Cardiovascular Medicine, University of Oxford, United Kingdom
+##### Institute of Biomedical Engineering (IBME), Department of Engineering Science, University of Oxford, United Kingdom
 
-###### Publication: doi.org/10.10.10.10 (pending)
+###### Publication: https://ieeexplore.ieee.org/document/10385558
 
-Version: 1.0 Release date: 20XX-XX-XX
+Version: 1.0 Release date: 2024-XX-XX
 
-Contact: mohanad.alkhodari@rdm.ox.ac.uk, winok.lapidaire@cardiov.ox.ac.uk, paul.leeson@cardiov.ox.ac.uk
+###### Contact: mohanad.alkhodari@rdm.ox.ac.uk, winok.lapidaire@cardiov.ox.ac.uk, turkay.kart@cardiov.ox.ac.uk, abhirup.banerjee@eng.ox.ac.uk, paul.leeson@cardiov.ox.ac.uk
 
 <img src="https://github.com/malkhodari/HyTwin/assets/62998803/725d47ea-c414-4c2f-8a7b-9fccf88f8ce8" width="80%" height="80%">
+
+For HyTwin Academic version, please go here: https://github.com/malkhodari/HyTwin_academic/
 
 ## For Webapp use
 
