@@ -14,6 +14,20 @@ For HyTwin Academic version, please go here: https://github.com/malkhodari/HyTwi
 
 <img src="https://github.com/malkhodari/HyTwin/assets/62998803/725d47ea-c414-4c2f-8a7b-9fccf88f8ce8" width="80%" height="80%">
 
+## Details on hypertension modelling
+```
+- Hypertension is a serious medical condition that affects over a billion people worldwide
+- The proper management of disease progression requires an extended knowledge on the functional/structural changes in the whole body in response to hypertension
+- We developed the HyperScore; an integrative and unified measure of hypertension progression relative to multi-modality measurements
+- The HyperScore reflects the proximity of a participant from the healthy state and towards the diseased state [score range: 0 (low risk) – 1 (high risk)]
+- We provide another level of characterization of the progression mechanism by locating the participant on a disease progression trajectory map
+- Each trajectory within the map reflects distinct hypertension-related end-organ progression pathway
+- Trajectory 1: liver disease, Trajectory 2: brain diseases, Trajectory 3: heart diseases
+- Trajectory 4: low survival (death from circulatory diseases), Trajectory 5: Metabolic diseases, Trajectory 6: Kidney diseases
+- The built-in model was developed using a large participating cohort from the UK Biobank database (n=27,099) with over 500 imaging/non-imaging variables from multiple modalities.
+- It is based on a semi-supervised machine learning approach; the contrastive trajectory inference (cTI)
+```
+
 ## For Webapp use
 
 [<img src="hyperlink3.png" width="16.35%" height="16.35%">
